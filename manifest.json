@@ -1,4 +1,5 @@
 {
+  "id": "/index.html",
   "name": "My Flashcards",
   "short_name": "Flashcards",
   "description": "A simple flashcard app with adaptive, set, and random study modes.",
